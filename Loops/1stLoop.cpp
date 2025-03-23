@@ -6,7 +6,8 @@ int n = 1;
 
 while (n<=5)
 {
-    cout<<"Hello DN "<<endl;
+    cout<<"Hello DN "<<n<<endl;
+    
     n++;
 }
 
